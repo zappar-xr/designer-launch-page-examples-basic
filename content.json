@@ -5,111 +5,106 @@
     "d2_root_v1": {
       "type": "Root",
       "children": [
-        "cce9063d-ead0-4b5c-b648-441dbe870d4b"
+        "334e1b20-971d-4cc9-889a-bb2a30e4a9e3"
       ]
     },
-    "cce9063d-ead0-4b5c-b648-441dbe870d4b": {
+    "334e1b20-971d-4cc9-889a-bb2a30e4a9e3": {
       "type": "Scene",
       "title": "Scene 1",
       "trackingType": "world",
       "children": [
-        "8a97d3e0-8edb-473f-997a-d3dac5bbb62b",
-        "2ba7412e-8c54-44f5-befc-6bc58db77590"
+        "0515f28f-6067-410b-bf06-b1553d4e5025",
+        "89eef641-a98c-4b4f-bb8a-5c3343b039de"
       ]
     },
-    "8a97d3e0-8edb-473f-997a-d3dac5bbb62b": {
+    "0515f28f-6067-410b-bf06-b1553d4e5025": {
       "type": "ScreenContent",
       "children": [
-        "5962301f-893b-43a9-b399-50f068151f45",
-        "0695569c-4e58-4c08-b924-291bcf5ddf6f",
-        "8f265095-a15f-40d2-85f6-b99f6450844e",
-        "d96b5638-6c2a-4b1c-89ba-459a176cd83b",
-        "7d159be8-55f8-4cb9-b5a8-2c157a485045",
-        "885d6344-0073-4399-93ab-82874bc6b410",
-        "c4a30b2c-8ac3-4cf0-8f62-076fd4442c03",
-        "695eefe3-4139-4385-8a82-c68eef0d3b81",
-        "1c31b540-738e-4011-a4e5-406bb3369358"
+        "a62316f0-6787-4f9a-9174-4f5765f5c0d7",
+        "1d155f33-e0d2-45b2-89c1-7eb7626acd82",
+        "ccf3f0b7-cc59-423a-8b85-a4d289bdca97",
+        "4ae736ec-3a22-4573-8ccb-9e680f32a09e",
+        "ae21b413-345e-4b47-a1ac-bcff4749de2c",
+        "868b7973-4b00-4816-935c-52032fc43808",
+        "7e1270a7-98b7-49fe-91b6-6e2b547491bc",
+        "3e1efc34-be7c-4752-bae8-f47d3cac3eb6",
+        "5bbef36c-2ed4-4bde-ada7-7b511c214152"
       ]
     },
-    "5962301f-893b-43a9-b399-50f068151f45": {
+    "a62316f0-6787-4f9a-9174-4f5765f5c0d7": {
       "type": "ScreenAnchorGroup",
       "name": "leftTop",
       "anchorPositionType": "leftTop",
       "children": []
     },
-    "0695569c-4e58-4c08-b924-291bcf5ddf6f": {
+    "1d155f33-e0d2-45b2-89c1-7eb7626acd82": {
       "type": "ScreenAnchorGroup",
       "name": "topMiddle",
       "anchorPositionType": "topMiddle",
       "children": []
     },
-    "8f265095-a15f-40d2-85f6-b99f6450844e": {
+    "ccf3f0b7-cc59-423a-8b85-a4d289bdca97": {
       "type": "ScreenAnchorGroup",
       "name": "rightTop",
       "anchorPositionType": "rightTop",
       "children": []
     },
-    "d96b5638-6c2a-4b1c-89ba-459a176cd83b": {
+    "4ae736ec-3a22-4573-8ccb-9e680f32a09e": {
       "type": "ScreenAnchorGroup",
       "name": "rightMiddle",
       "anchorPositionType": "rightMiddle",
       "children": []
     },
-    "7d159be8-55f8-4cb9-b5a8-2c157a485045": {
+    "ae21b413-345e-4b47-a1ac-bcff4749de2c": {
       "type": "ScreenAnchorGroup",
       "name": "rightBottom",
       "anchorPositionType": "rightBottom",
       "children": []
     },
-    "885d6344-0073-4399-93ab-82874bc6b410": {
+    "868b7973-4b00-4816-935c-52032fc43808": {
       "type": "ScreenAnchorGroup",
       "name": "bottomMiddle",
       "anchorPositionType": "bottomMiddle",
       "children": []
     },
-    "c4a30b2c-8ac3-4cf0-8f62-076fd4442c03": {
+    "7e1270a7-98b7-49fe-91b6-6e2b547491bc": {
       "type": "ScreenAnchorGroup",
       "name": "leftBottom",
       "anchorPositionType": "leftBottom",
       "children": []
     },
-    "695eefe3-4139-4385-8a82-c68eef0d3b81": {
+    "3e1efc34-be7c-4752-bae8-f47d3cac3eb6": {
       "type": "ScreenAnchorGroup",
       "name": "leftMiddle",
       "anchorPositionType": "leftMiddle",
       "children": []
     },
-    "1c31b540-738e-4011-a4e5-406bb3369358": {
+    "5bbef36c-2ed4-4bde-ada7-7b511c214152": {
       "type": "ScreenAnchorGroup",
       "name": "center",
       "anchorPositionType": "center",
       "children": []
     },
-    "2ba7412e-8c54-44f5-befc-6bc58db77590": {
-      "type": "Model3d",
-      "id": "2ba7412e-8c54-44f5-befc-6bc58db77590",
-      "scale": [
-        0.559254119060569,
-        1.7548735694160862,
-        3.435625268792501
-      ],
+    "89eef641-a98c-4b4f-bb8a-5c3343b039de": {
+      "type": "Button",
+      "id": "89eef641-a98c-4b4f-bb8a-5c3343b039de",
+      "renderOrder": 1,
       "position": [
-        0,
-        1.7616896222215006,
+        0.01780162849273589,
+        0.5116348771568108,
         0
       ],
-      "dimensions": [
-        25.185436248779297,
-        79.02893318235874,
-        154.71986389160156
-      ],
-      "renderOrder": 1,
       "rotation": [
         0,
         0,
         0
       ],
-      "title": "fox-embedded.gltf",
+      "scale": [
+        0.7444264953221281,
+        0.2615552551131802,
+        0
+      ],
+      "title": "ZapWorks website",
       "aspectRatioLocked": true,
       "isLocked": false,
       "isHidden": false,
@@ -117,10 +112,47 @@
         false,
         false
       ],
-      "model3dUrl": "./3dmodel/fea2f16a65b146c8ba955d336844ab94/uploaded",
-      "thumbnailUrl": "./3dmodel/fea2f16a65b146c8ba955d336844ab94/frame0.png",
-      "zmlFileId": "db48cce3-a3d4-421c-8631-e5c413c5a541",
-      "isAnimated": false
+      "fontRgba": [
+        255,
+        255,
+        255,
+        1
+      ],
+      "fontFamily": "Roboto",
+      "fontSize": 0.22577791999999997,
+      "text": "ZapWorks",
+      "color": [
+        150,
+        191,
+        239,
+        1
+      ],
+      "borderRadius": 0,
+      "borderRgba": [
+        52,
+        75,
+        96,
+        1
+      ],
+      "borderWidth": 0,
+      "textAlignment": "center",
+      "isSnapshotUi": false,
+      "dimensions": [
+        100,
+        36
+      ],
+      "clickOffset": [
+        128.7109375,
+        -30.40234375
+      ],
+      "actions": {
+        "onTap": [
+          {
+            "type": "linkPage",
+            "pageUrl": "https://zap.works/"
+          }
+        ]
+      }
     }
   },
   "juteVersion": "16.4"
